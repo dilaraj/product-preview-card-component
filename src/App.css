@@ -95,6 +95,10 @@
   gap: 1em;
 }
 
+.cart-btn:hover {
+  background-color: hsl(158, 42%, 18%);
+}
+
 @media (min-width: 768px) {
   .product-preview-container {
     width: 55vw;
