@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Respository](https://github.com/dilaraj/product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site Preview](https://dilaraj.github.io/product-preview-card-component/)
 
 ## My process
 
